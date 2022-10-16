@@ -1,0 +1,73 @@
+/* Add your styles here */
+#encabezado{
+  color: blue;
+  display: inline;
+  text-align: center;
+  font-style: italic;
+}
+
+#encabezado1{
+  color: red;
+  display: inline;
+  font-style: italic;
+}
+
+#encabezado2{
+  color: lightyellow;
+  display: inline;
+  font-style: italic;
+}
+
+.title{
+  font-weight: bold;
+  text-align: center;
+}
+
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+
+div {
+  width: 500px;
+  background-color: rgba(19, 18, 18, 0.808);
+  border: 10px solid rgb(39, 36, 36);
+  padding: 2px;
+  text-align: center;
+}
+
+p {
+  color: white;
+  text-align: justify;
+}
+
+ol {
+  color: white;
+  text-align: justify;
+}
+
+a {
+  color: lightgreen;
+}
+
+.row {
+  text-align: center;
+  width: 1125px;
+}
+
+.column {
+  display: block;
+}
+
+.form-label {
+  color: white;
+}
+
+.form-check-label {
+  color: white;
+}
+
+.btn btn-primary {
+  display: block;
+}
